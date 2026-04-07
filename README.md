@@ -11,4 +11,4 @@ python fiirabig.py
 ```
 
 ### Build
-`pyinstaller --onefile --windowed firabig.py`
+`pyinstaller --onefile --windowed fiirabig.py`
